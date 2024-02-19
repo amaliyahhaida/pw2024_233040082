@@ -1,8 +1,8 @@
 <?php
-$t = "Topi";
-$b = "Bundar";
+$topi = "Topi";
+$bundar = "Bundar";
 
-echo "<i><h2>" . '"' . "$t saya $b, $b $t saya" . '"' . "</h2></i>"
+echo "<i><h2>" . '"' . "$topi saya $bundar, $bundar $topi saya" . '"' . "</h2></i>"
 
 ?>
  
