@@ -12,7 +12,7 @@
         font-family: arial;
         font-weight: bold;
     }
-
+    
     .background {
         background-color: salmon;
         border: 1px solid black;
