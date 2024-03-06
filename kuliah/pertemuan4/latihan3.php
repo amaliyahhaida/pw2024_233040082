@@ -1,11 +1,13 @@
 <?php
 
-function cetak_angka($baris) 
+function cetak_angka($angka)
 {
-for ($i = 1; $i <= $baris; $i++) {
-    for($j = 1; $j <= $7; $j++) {
-        echo "$i";
-    }
-    echo "<br>";
-    }
+     for ($i = 1; $i <= $angka; $i++) {
+          for ($j = 1; $j <= $i; $j++) {
+               echo $i;
+          }
+          echo "<br>";
+     }
 }
+
+cetak_angka(10);

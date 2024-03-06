@@ -1,12 +1,12 @@
 <?php 
 
 function urutanAngka($angka) {
-    $k = 1;
-    for ($i = 1; $i <= $angka ; $i++) {
-        for($j = 1; $j <= $i; $j++) {
-            echo "$k ";
-            $k++;
-            if ($j == $i) {
+    $z = 1;
+    for ($x = 1; $x <= $angka ; $x++) {
+        for($y = 1; $y <= $x; $y++) {
+            echo "$z ";
+            $z++;
+            if ($y == $x) {
                 echo "<br>";
             }
         }
