@@ -3,14 +3,14 @@ $mahasiswa = [
     [
         "Nama" => "Amaliyah Nur Haida Jum'ati",
         "Nim" => "233040082",
-        "Email" => "amaliyahnurhaida.223040082@mail.unpas.ac.id",
+        "Email" => "amaliyahnurhaida.233040082@mail.unpas.ac.id",
         "Jurusan" => "Teknik Informatika",
         "gambar" => "ama.jpg"
     ],
     [
         "Nama" => "Icha Aprilia Putri",
         "Nim" => "233040108",
-        "Email" => "ccha.233040108@mail.unpas.ac.id",
+        "Email" => "icha.233040108@mail.unpas.ac.id",
         "Jurusan" => "Teknik Informatika",
         "gambar" => "ica.jpg
         "
@@ -41,31 +41,31 @@ $mahasiswa = [
     ],
     [
         "Nama" => "Meta Cantika Dewi",
-        "Nim" => "233040071",
-        "Email" => "meta.233040071@mail.unpas.ac.id",
+        "Nim" => "233040100",
+        "Email" => "meta.233040100@mail.unpas.ac.id",
         "Jurusan" => "Teknik Informatika",
         "gambar" => "meta.jpg
         "
     ],
     [
         "Nama" => "Desi Hafita Asri",
-        "Nim" => "233040045",
-        "Email" => "desi.233040045@mail.unpas.ac.id",
+        "Nim" => "233040165",
+        "Email" => "desi.233040165@mail.unpas.ac.id",
         "Jurusan" => "Teknik Informatika",
         "gambar" => "desi.jpg"
     ],
     [
         "Nama" => "Dwi Yulianti",
-        "Nim" => "233040059",
-        "Email" => "dwi.233040059@mail.unpas.ac.id",
+        "Nim" => "233040081",
+        "Email" => "dwi.233040081@mail.unpas.ac.id",
         "Jurusan" => "Teknik Informatika",
         "gambar" => "dwi.jpg
         "
     ],
     [
-        "Nama" => "Silma Tsania Nurassy",
-        "Nim" => "233040061",
-        "Email" => "silma.233040061@mail.unpas.ac.id",
+        "Nama" => "Silma Tsania Nurrasy",
+        "Nim" => "233040107",
+        "Email" => "silma.233040107@mail.unpas.ac.id",
         "Jurusan" => "Teknik Informatika",
         "gambar" => "silma.jpg
         "
@@ -73,8 +73,8 @@ $mahasiswa = [
     [
         "Nama" => "Stephen Curry",
         "Nim" => "233040100",
-        "Email" => "stephen.233040052@mail.unpas.ac.id",
-        "Jurusan" => "Teknik Informatika",
+        "Email" => "stephen.233040052@mail.warrior.ac.id",
+        "Jurusan" => "Teknik Basket",
         "gambar" => "curry.jpg"
     ],
     [
