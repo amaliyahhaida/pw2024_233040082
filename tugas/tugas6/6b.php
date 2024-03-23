@@ -25,7 +25,7 @@
 
         .row1 {
             .kotak {
-                background-color: fuchsia;
+                background-color: lightgrey;
             }
         }
 
