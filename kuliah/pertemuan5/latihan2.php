@@ -33,6 +33,7 @@ array_pop($binatang);
     <hr>
 
 
+    
     <h3>Daftar Binatang</h3>
     <ol>
         <?php foreach ($binatang as $b) : ?>

@@ -24,4 +24,3 @@ echo "Total volume kubus A & B = " . total_volume_dua_kubus (9, 4);
 echo "<br>";
 
 echo "Total volume kubus C & D = " . total_volume_dua_kubus (10, 15);
-
